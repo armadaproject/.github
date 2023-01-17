@@ -1,7 +1,7 @@
 <img src="./profile/logo.svg" width="200"/>
 
 Armada is a [CNCF](https://www.cncf.io/) Sandbox project used in production at [G-Research](https://www.gresearch.co.uk/).
-It was written by G-Research, with contributions from G-Research Open Source (https://opensource.gresearch.co.uk/) members,
+It was written by G-Research, with contributions from [G-Research Open Source](https://opensource.gresearch.co.uk/) members
 and others.
 
 For an overview of Armada, see these videos:
@@ -9,7 +9,7 @@ For an overview of Armada, see these videos:
 - [Armada - high-throughput batch scheduling](https://www.youtube.com/watch?v=FT8pXYciD9A)
 - [Building Armada - Running Batch Jobs at Massive Scale on Kubernetes](https://www.youtube.com/watch?v=B3WPxw3OUl4)
 
-Armada adheres to the CNCF [Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
+The Armada Project adheres to the CNCF [Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
 
 Armada is a multi-[Kubernetes](https://kubernetes.io/docs/concepts/overview/) cluster batch job scheduler.
 
