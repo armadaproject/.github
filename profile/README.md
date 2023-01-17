@@ -1,4 +1,4 @@
-<img src="./logo.svg" width="200"/>
+<img src="./profile/logo.svg" width="200"/>
 
 Armada is a [CNCF](https://www.cncf.io/) Sandbox project used in production at [G-Research](https://www.gresearch.co.uk/).
 It was written by G-Research, with contributions from G-Research Open Source (https://opensource.gresearch.co.uk/) members,
